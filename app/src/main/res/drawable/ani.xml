@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@mipmap/page_refresh"
+        android:duration="200" />
+    <item
+        android:drawable="@mipmap/a"
+        android:duration="200" />
+    <item
+        android:drawable="@mipmap/b"
+        android:duration="200" />
+    <item
+        android:drawable="@mipmap/c"
+        android:duration="200" />
+    <item
+        android:drawable="@mipmap/d"
+        android:duration="200" />
+</animation-list>
